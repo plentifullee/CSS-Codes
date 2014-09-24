@@ -1,7 +1,7 @@
-Youtube-API-v3
+CSS-Codes
 ==============
 
-Examples of using Youtube's API v3 codes using PHP
+Examples of using CSS
 
 For more information visit:
 http://plenty.codes
